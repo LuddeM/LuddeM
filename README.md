@@ -13,10 +13,9 @@ Most of my repositories are set to _**Private**_ - Feel free to reach out if you
 ---
 
 
-### Connect with Me:
+### Other Platforms
 
 [<img alt="Website" align="left" height="36px" src="./img/icons/icon-website-dark.svg" style="padding-right:10px;" />](https://luddem.github.io/##gh-light-mode-only)
-
 [<img alt="Website" align="left" height="36px" src="./img/icons/icon-website-bright.svg" style="padding-right:10px;" />](https://luddem.github.io/##gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img alt="LinkedIn" align="left" height="36px" src="./img/icons/icon-linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ludvig-m#gh-light-mode-only)
@@ -28,7 +27,7 @@ Most of my repositories are set to _**Private**_ - Feel free to reach out if you
 ---
 
 
-### [<img alt="Code" align="left" height="24px" src="./img/icons/icon-code.svg" style="padding-right:10px;" />](#gh-dark-mode-only) Non-Exhaustive Experience List
+### [<img alt="Code" align="left" height="24px" src="./img/icons/icon-code.svg" style="padding-right:10px;" />](#) Non-Exhaustive Experience List
 
 #### Languages & Frameworks
 
@@ -68,6 +67,10 @@ Most of my repositories are set to _**Private**_ - Feel free to reach out if you
 
 <br />
 <br />
+
+#### Public Repository Languages
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luddem&show_icons=true&theme=transparent&hide_border=true&hide_title=true&layout=compact&exclude_repo=LuddeM.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

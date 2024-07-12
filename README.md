@@ -31,17 +31,17 @@ Most of my repositories are set to _**Private**_ - Feel free to reach out if you
 
 #### Languages & Frameworks
 
-[<img align="left" alt="Cplusplus" width="36px" src="./img/icons/icon-cplusplus.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Cplusplus" height="36px" src="./img/icons/icon-cplusplus.svg" style="padding-right:10px;" />](#)
 
-[<img align="left" alt="CSharp" width="36px" src="./img/icons/icon-csharp.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="CSharp" height="36px" src="./img/icons/icon-csharp.svg" style="padding-right:10px;" />](#)
 
-[<img align="left" alt="JavaScript" width="36px" src="./img/icons/icon-javascript.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="JavaScript" height="36px" src="./img/icons/icon-javascript.svg" style="padding-right:10px;" />](#)
 
-[<img align="left" alt="HTML5" width="36px" src="./img/icons/icon-html.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="HTML5" height="36px" src="./img/icons/icon-html.svg" style="padding-right:10px; margin-bottom:50px" />](#)
 
-[<img align="left" alt="CSS3" width="36px" src="./img/icons/icon-css.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="CSS3" height="36px" src="./img/icons/icon-css.svg" style="padding-right:10px;" />](#)
 
-[<img align="left" alt="VueJS" width="36px" src="./img/icons/icon-vue.svg" style="padding-right:10px;" />](https://vuejs.org/)
+[<img align="left" alt="VueJS" height="36px" src="./img/icons/icon-vue.svg" style="padding-right:10px;" />](https://vuejs.org/)
 
 
 <br />
@@ -49,21 +49,21 @@ Most of my repositories are set to _**Private**_ - Feel free to reach out if you
 
 #### Tools / Editors / Game Engines
 
-[<img align="left" alt="Unreal Engine" width="36px" src="./img/icons/icon-unreal-engine-dark.svg" style="padding-right:10px;" />](https://www.unrealengine.com#gh-light-mode-only)
+[<img align="left" alt="Unreal Engine" height="36px" src="./img/icons/icon-unreal-engine-dark.svg" style="padding-right:10px;" />](https://www.unrealengine.com#gh-light-mode-only)
 
-[<img align="left" alt="Unreal Engine" width="36px" src="./img/icons/icon-unreal-engine-bright.svg" style="padding-right:10px;" />](https://www.unrealengine.com#gh-dark-mode-only)
+[<img align="left" alt="Unreal Engine" height="36px" src="./img/icons/icon-unreal-engine-bright.svg" style="padding-right:10px;" />](https://www.unrealengine.com#gh-dark-mode-only)
 
-[<img align="left" alt="Unity" width="36px" src="./img/icons/icon-unity-dark.svg" style="padding-right:10px;" />](https://unity.com#gh-light-mode-only)
+[<img align="left" alt="Unity" height="36px" src="./img/icons/icon-unity-dark.svg" style="padding-right:10px;" />](https://unity.com#gh-light-mode-only)
 
-[<img align="left" alt="Unity" width="36px" src="./img/icons/icon-unity-bright.svg" style="padding-right:10px;" />](https://unity.com#gh-dark-mode-only)
+[<img align="left" alt="Unity" height="36px" src="./img/icons/icon-unity-bright.svg" style="padding-right:10px;" />](https://unity.com#gh-dark-mode-only)
 
-[<img align="left" alt="Visual Studio" width="36px" src="./img/icons/icon-visual-studio.svg" style="padding-right:10px;" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="Visual Studio" height="36px" src="./img/icons/icon-visual-studio.svg" style="padding-right:10px;" />](https://visualstudio.microsoft.com/)
 
-[<img align="left" alt="Visual Studio Code" width="36px" src="./img/icons/icon-visual-studio-code.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" height="36px" src="./img/icons/icon-visual-studio-code.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 
-[<img align="left" alt="Git" width="36px" src="./img/icons/icon-git.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Git" height="36px" src="./img/icons/icon-git.svg" style="padding-right:10px;" />](#)
 
-[<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
+[<img align="left" alt="GitHub" height="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
 
 <br />
 <br />
